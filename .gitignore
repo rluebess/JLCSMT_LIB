@@ -17,5 +17,8 @@ Project\ Logs*/
 # Access lock file for dbLib sources
 **/*.ldb
 
+# STEP files Direktory
+**/STEP/
+
 
 # End of https://www.gitignore.io/api/altium
