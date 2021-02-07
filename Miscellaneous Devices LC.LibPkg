@@ -346,6 +346,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UDRFZMAR
 
 [Document19]
+DocumentPath=IC_Ext_4000.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGYMNPVQ
+
+[Document20]
 DocumentPath=Additional Devices LC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
