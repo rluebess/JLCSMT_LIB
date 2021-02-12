@@ -329,7 +329,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HIUGZDOL
 
 [Document18]
-DocumentPath=IC_Ext_4000.SchLib
+DocumentPath=IC_Ext.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
